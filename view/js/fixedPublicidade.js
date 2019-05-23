@@ -1,0 +1,1 @@
+// tá em fixedNavbar.js por compatibilidade

@@ -1,0 +1,8 @@
+{
+    "name": "root/fiscalizape2",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1",
+        "respect/validation": "^1.1",
+        "yohang88/letter-avatar": "^2.1"
+    }
+}
